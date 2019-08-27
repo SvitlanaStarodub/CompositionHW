@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositionHW", "CompositionHW\CompositionHW.csproj", "{216580C8-4FD3-4411-A2F0-6D12DB85F43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositionTask1", "CompositionTask1\CompositionTask1.csproj", "{216580C8-4FD3-4411-A2F0-6D12DB85F43B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositionTask2", "CompositionTask2\CompositionTask2.csproj", "{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{216580C8-4FD3-4411-A2F0-6D12DB85F43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{216580C8-4FD3-4411-A2F0-6D12DB85F43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{216580C8-4FD3-4411-A2F0-6D12DB85F43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
