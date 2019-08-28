@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositionTask1", "Composi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositionTask2", "CompositionTask2\CompositionTask2.csproj", "{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositionTask3", "CompositionTask3\CompositionTask3.csproj", "{CA2DB433-213A-4A0C-8587-047FD7D6BB1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDBD3988-6BFE-4565-ACE1-4B5453D54A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2DB433-213A-4A0C-8587-047FD7D6BB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2DB433-213A-4A0C-8587-047FD7D6BB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2DB433-213A-4A0C-8587-047FD7D6BB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2DB433-213A-4A0C-8587-047FD7D6BB1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
